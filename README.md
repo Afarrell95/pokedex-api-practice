@@ -9,3 +9,4 @@ This is a pokedex created with JavaScript, HTML, and CSS. CSS and HTML not done 
 farrella95
 
 Deployed:
+https://afarrell95.github.io/pokedex-api-practice/
