@@ -438,3 +438,20 @@
   .fairy {
     background: #F9AEFF;
   }
+
+  @media screen and (max-width: 850px) {
+    .pokedex {
+ width: 100%;
+ margin:0;
+ flex-wrap: wrap;
+    }
+    
+    .left-container,
+    .right-container {
+     margin: 1em;
+     width: 100%;
+    }
+    .right-container__screen{
+      font-size: 1.5rem;
+    }
+  }
